@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num1\ num2
+comment0.target=AddNum(double,\ double)
+comment0.text=Description\ -\ Adds\ the\ two\ numbers\ together.\r\nInput\ -\ Double\r\nOutput\ -\ Double\r\nExample\ -\ 1\ +\ 1\ \=\ 2\ \r\n
+comment1.params=
+comment1.target=void\ showAnswer()
+comment1.text=Description\ -\ Prints\ out\ the\ sum\ of\ the\ two\ numbers\r\n
+numComments=2
